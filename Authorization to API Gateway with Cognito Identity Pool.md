@@ -40,3 +40,6 @@ https://towardsaws.com/a-quick-aws-api-gateway-cheatsheet-b78cb39154f2
 
 
 https://www.youtube.com/watch?v=0dVL70Ayq5I
+
+### Secure Spring Boot REST APIs with Amazon Cognito
+https://www.tutorialsbuddy.com/secure-spring-boot-rest-apis-with-amazon-cognito-example
